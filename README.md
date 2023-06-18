@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @meoci
-- 👀 I’m interested in ...Open-Source Intelligence
-- 🌱 I’m currently learning ...Open-Source Intelligence
-- 💞️ I’m looking to collaborate on ...Open-Source Intelligence
+- 👀 I’m interested in ...language models
+- 🌱 I’m currently learning ...language models
+- 💞️ I’m looking to collaborate on ...N/A
 - 📫 How to reach me ...
 
 <!---
